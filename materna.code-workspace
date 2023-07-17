@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../work"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "materna"
+	}
+}
